@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sandr
+ *
+ */
+module Kompjuter {
+}
